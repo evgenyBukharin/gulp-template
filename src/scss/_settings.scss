@@ -19,7 +19,6 @@ html {
 	min-width: 320px;
 	min-height: 100%;
 	font-size: 16px;
-	background: var(--grey-color);
 }
 
 .site-container {
@@ -43,8 +42,4 @@ html {
 	margin: 0 auto;
 	padding: 0 var(--container-offset);
 	max-width: var(--container-width);
-}
-
-main {
-	min-height: 100vh;
 }
